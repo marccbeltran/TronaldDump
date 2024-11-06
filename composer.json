@@ -3,7 +3,7 @@
     "description": "Make America Great Again",
     "require": {
         "php": "^7.0",
-        "twig/twig": "^2.11"
+        "twig/twig": "^3.11"
     },
     "autoload": {
         "psr-4": {
